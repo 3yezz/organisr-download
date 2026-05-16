@@ -16,7 +16,6 @@ EDorganisr est une application d'organisation personnelle et collaborative dispo
 
 - Gestion des tâches, groupes et tableaux de bord
 - Agenda et suivi des événements
-- Listes de courses partagées
 - Bloc-notes intégré
 - Gestion d'entreprises, membres et invitations
 - Badges QR et pointage pour les équipes
